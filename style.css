@@ -1,10 +1,21 @@
-img{
+.img1{
     padding-left: 30px;
-    height: 60%;
+    padding-top: 6%;
+    width: 103%;
+    height: 685px;
 }
 .col-6{
     width: 30%;
     height: 120%;
+}
+.top{
+    background-image: url(./image/imageback3.jpg);
+    padding-top: 15%;
+    border: 1px solid rgb(220, 207, 207);
+    margin: 6% 0% 7% 0%;
+    padding-bottom: 2%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 h1{
     text-align: center;
@@ -13,11 +24,11 @@ h6{
     text-align: center;
     padding-bottom: 10%;
 }
-.for{
-    margin-right: 10%;
-    margin-bottom: 2%;
-    padding-bottom: 3%;
-    padding-left: 5%;
+#for{
+    padding: 3% 10%;
+}
+#or{
+    text-align: center;
 }
 .section{
     padding-bottom: 10%;
@@ -25,24 +36,48 @@ h6{
 form{
     display: block;
 }
-.fo{
+#fo{
     display: block;
 }
-.pas{
+#pas{
     display: block;
 }
 input{
-    padding: 0.9% 15% ;
+    padding-right: 30% ;
     border-radius: 6px;
 }
-button{
-    padding:1.3% 3%;
+.lo {
+    padding:1.3% 6%;
+    background-color: cornflowerblue;
 }
-.but{
+#but{
     margin-bottom: 50px;
-    padding-left: 25%;
+    padding-left: 38%;
+    border-radius: 5px;
 }
-.or{
-   text-align: center;
+.ico{
+    align-items: center;
+}
+.inpu{
+    padding-left: 10%;
+}
+.google{
+    width: 40px;
+    height: 40px;
+}
+.facebook{
+    width: 40px;
+    height: 40px;
+}
+.apple{
+    width: 40px;
+    height: 40px;
+}
+.image{
+    padding-left: 30%;
+    border-radius: 10px;
+}
 
+h6{
+    text-align: center;
 }
